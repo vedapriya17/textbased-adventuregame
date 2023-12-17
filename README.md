@@ -6,4 +6,4 @@ As you explore the world, you will encounter items and objects that you can inte
 To play the game, simply run the following command:
 python game.py
 Use code with caution.
-Learn more
+
